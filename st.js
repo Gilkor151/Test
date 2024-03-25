@@ -1,0 +1,16 @@
+let search_1 = ['apotea', 'MYFLIX', 'hallon', 'BETALO'];
+let search_2 = ['2023-10-04'];
+const till = 21000;
+const utn = 14104.24;
+const F1 = 'Visa faktura';
+const F1_1 = 'U2FsdGVkX18FhDEWrHjeTVQGLpHlBX2XZrg/oE2qODrZkE4t/enWVTtfZ+rCOlBiCSCjky9Cc3bNkibfY3KBgQ==';
+const F2 = 'Faktura januari 2024';
+const F2_1 = 'U2FsdGVkX1812pcfcChQZpzOmUcgSJeRUmzY+7BpOX5eBrHPZsiUTDj0a/9IpCp3JXt2BLONVdBi2HMcAprvxg==';
+const F3 = 'Faktura december 2023';
+const F3_1 = 'U2FsdGVkX1/Kg/ZEjbJlNJW6DPE9nSQfwW7q6eNKOGrIUIcEUcpAYUNda1bZ9nABi5aaXq+RuI3j/p0oPO2jUw==';
+const F4 = 'Faktura november 2023';
+const F4_1 = 'U2FsdGVkX199EGTuUpPkBFXkLo2PElbpAgAt5FD+NIGHeTFX5NVHe/dTsTZoKrCjsiRBIE37zdepVscMC4ZMaQ==';
+const F5 = 'Faktura oktober 2023';
+const F5_1 = 'U2FsdGVkX187kJ8h6SEHXvf8fPCDH6I4aabfDIYo00f5vJUi1skarVY1tRF3IdUtLhbhamgXH1Jf8IbXkUFqxw==';
+const F6 = 'Faktura september 2023';
+const F6_1 = 'U2FsdGVkX188WRhbJDgzUc25f3NYSqCNZKv/p+mqbFVWkMT6EEJ9AYcAwq6+WKKO30VCJPMriSVUqPVser1wcA==';
