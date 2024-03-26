@@ -1,7 +1,7 @@
 let search_1 = ['apotea', 'MYFLIX', 'hallon', 'BETALO'];
 let search_2 = ['2023-10-04'];
 const till = 21000;
-const utn = 17524.52;
+const utn = 17524.53;
 const F1 = 'Visa faktura';
 const F1_1 = 'U2FsdGVkX18RQ5HEEx284h+AZnwUyQgWon5Wof8pIFiR4GGFvL7VMjutywR5FCoTJmJ6Un3vc3PtI8q5KOB59A==';
 const F2 = 'Faktura februari 2024';
